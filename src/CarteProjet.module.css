@@ -1,0 +1,15 @@
+.carte {
+  background-color: #0b2c78;
+  border: 1px solid #0d0b78;
+  border-radius: 8px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+  flex: 1;
+  min-width: 260px;
+}
+
+.titre {
+  margin-top: 0;
+  color: #ffffff;
+  font-size: 1.35rem;
+}

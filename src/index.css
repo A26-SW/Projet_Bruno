@@ -1,0 +1,36 @@
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+  background-color: #f8fafc;
+  color: #ffffff;
+  margin: 0;
+  padding: 2rem;
+  line-height: 1.6;
+}
+
+.conteneur {
+  max-width: 850px;
+  margin: 0 auto;
+}
+
+h1 {
+  color: #0f172a;
+  margin-bottom: 1.5rem;
+}
+
+.encadre {
+  background-color: #4e9a9a;
+  border-left: 4px solid #0284c7;
+  padding: 1rem 1.5rem;
+  border-radius: 6px;
+  margin-bottom: 2rem;
+}
+
+.encadre p {
+  margin: 0;
+}
+
+.grille-projets {
+  display: flex;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
