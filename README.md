@@ -1,6 +1,6 @@
 # Mes projets — Portfolio React
 
-Petite application présentant deux projets ainsi qu'un encadré de présentation personnelle.
+Petite application présentant deux projets.
 
 ## Installation et lancement
 
